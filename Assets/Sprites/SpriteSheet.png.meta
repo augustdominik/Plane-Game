@@ -7,7 +7,7 @@ TextureImporter:
     21300000: Plane_0
     21300002: Plane_1
     21300004: Plane_2
-    21300006: SpriteSheet_3
+    21300006: Rocket
     21300008: SpriteSheet_4
     21300010: SpriteSheet_5
     21300012: SpriteSheet_6
@@ -186,7 +186,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SpriteSheet_3
+      name: Rocket
       rect:
         serializedVersion: 2
         x: 28
